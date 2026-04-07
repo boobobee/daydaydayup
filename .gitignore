@@ -1,3 +1,5 @@
-.DS_Store/
-2.txt/
-.idea/
+.DS_Store
+2.txt
+.idea
+
+#comment
